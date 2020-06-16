@@ -1,0 +1,26 @@
+{
+  "name": "volleystats-api",
+  "version": "1.0.0",
+  "description": "Express API for volleystats web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniPD/VolleyStats-WEB.git"
+  },
+  "keywords": [
+    "api",
+    "express"
+  ],
+  "author": "Antoni Dobrenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoniPD/VolleyStats-WEB/issues"
+  },
+  "homepage": "https://github.com/AntoniPD/VolleyStats-WEB#readme",
+  "dependencies": {
+    "mongoose": "^5.9.19"
+  }
+}
